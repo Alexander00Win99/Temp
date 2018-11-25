@@ -1,1 +1,2 @@
 user3 init fileA
+user1 init fileA after A pull initial repo from GitHub
