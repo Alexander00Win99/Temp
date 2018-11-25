@@ -1,3 +1,4 @@
 user3 init fileA
 user1 init fileA after A pull initial repo from GitHub
 user4 add branch1 for user4
+user4 add branch02 for user4
